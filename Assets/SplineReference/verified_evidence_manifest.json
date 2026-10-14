@@ -1,0 +1,55 @@
+{
+  "retrieved_utc": "2026-10-13T23:24:52.458901+00:00",
+  "files": [
+    {
+      "file": "recovery_diagnostic.png",
+      "bytes": 1068297,
+      "sha256": "279c90c1e4879c9c5ce023c3637851ae9749818b3203159050b4a5dec5fce206"
+    },
+    {
+      "file": "Reference_Server_Preview.jpg",
+      "bytes": 76622,
+      "sha256": "70e15c8b7c6a8cda8752d31d9d6fc3455586c067aa436278c72fe9ae423d200b"
+    },
+    {
+      "file": "Published_Reference_Preview.png",
+      "bytes": 1679437,
+      "sha256": "6742fd2cfd1132d9aa09aeb95714e6d07e23a490b3722e48c8206fd16383d50a"
+    },
+    {
+      "file": "Published_Reference.splinecode",
+      "bytes": 313046,
+      "sha256": "e95e98daca4e7e00626cdcdeb957c4e0edcfea41e2dbf954fd8461e337516059"
+    },
+    {
+      "file": "Reference_Export_Decoded.html",
+      "bytes": 1073355,
+      "sha256": "fa557782028e1a26985dc130694decaf949d62c62bb271de4e12c24923edf506"
+    },
+    {
+      "file": "public_scene_metadata.json",
+      "bytes": 1502,
+      "sha256": "e38b22e33c77b9ddb86e6c869ffaf8fb0150cdf8dfe32d1e3a0a741318c1f42b"
+    },
+    {
+      "file": "published_runtime_metadata.json",
+      "bytes": 184645,
+      "sha256": "467e6d09b89aabfba30adc6509e3308227db378677a2b2dd50ecb5b52bc95b73"
+    },
+    {
+      "file": "published_scene_data.json",
+      "bytes": 5095702,
+      "sha256": "4203c144c082aa456a39deb3da89d290cba2a1bbb4e83ac95b56616d35cea916"
+    },
+    {
+      "file": "published_camera_metadata.json",
+      "bytes": 2060,
+      "sha256": "3a377e2e4ce04b4be825dac6bafff2fce05b34402a06822b1d489f257c48356e"
+    },
+    {
+      "file": "published_object_inventory.json",
+      "bytes": 8760,
+      "sha256": "cf984242436560aac82e7b14159cecddc4233bfc18e3487987b4a71acf7d3527"
+    }
+  ]
+}

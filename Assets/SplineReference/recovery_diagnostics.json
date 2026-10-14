@@ -1,0 +1,900 @@
+{
+  "time": 1791933583.688462,
+  "title": "Modern Industrial Art Gallery \u00b7 Spline",
+  "events": [
+    {
+      "type": "warning",
+      "text": "The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127",
+      "location": {
+        "url": "https://play.spline.design/_libraries/runtime.js",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    },
+    {
+      "type": "warning",
+      "text": "The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127",
+      "location": {
+        "url": "https://play.spline.design/_libraries/runtime.js",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://app.spline.design/file/4d17acdc-e288-41f6-953d-584bf74d5b5d",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/431bw722fec3m.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/turbopack-2f_m7a67hrq44.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1hgzza8c-_-qd.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3j_jz20ykzjk-.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3nmf_03qge3f5.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2zx3q7e7c69qs.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/26g4tn5b226u5.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/36wh2alg4jw-a.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2wur3ay0sh05r.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0gwtb4szd1lqp.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1x_nuts_tyyl0.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3n6sevinntwxd.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2lvs8dcik8ggx.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0em0qbnp8gjzz.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1tkt10doxfzgu.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/38mgkojdjbvc1.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0xntngr8c4y12.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2vwi6fzhmc5m2.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0fbtw_9wa9d5o.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/20n804b6rn2_d.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2534chd7kiz-1.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2bun86vc2n-mq.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3xsldnng03j7y.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2leb6f8auy2ea.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2xnyour__r6jr.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3yj8y6i5lrivp.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1vad6lj0x8z5a.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3fac51dl3bv76.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2h1kfn20l0121.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2m4wd5q1nnggx.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/27-ai89z0n4y_.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2y-v6vs-gw68b.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0qkb8s77a2ncv.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1gb816vpdh8j8.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1cwgrtw6--m89.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/38brjqwmh156z.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3-jbgmz2h1_pj.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/36t9ca6efyt6m.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/312zfa-uztsm4.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/248dotyg6ditg.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2qfodm8pmjlmr.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0cg7j_ifj5ssy.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/36hsvu8sqrsfi.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/32u2s1-c5qivu.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/143u6l02q9gb9.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2aysj7ru3ts5i.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/draco_wasm_wrapper.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/draco_decoder.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/06-zozqerlz3w.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_checkboard_default.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1w8b5b6auboa1.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0ujhdg7d1lcv7.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/bevel.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/11_rhcqlo1isi.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/boolean.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/process.full.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/physics.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0axy98k19f3-j.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2c56-qs6zc5z5.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/00kwg6h05h2-m.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2d_vwwel7jmqu.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3h_yypdw2tjge.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0fd6cnc882430.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2xattczwys86w.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0sv5i9rurjvzh.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/hana-ui.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0wefemb9hzeos.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/194-34q5tzlcy.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2zskgshc1fzdu.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/1-z61lstxt0xa.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3vp7lrpkmyb2f.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/physics.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/2ng1guakpiqrc.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0oxpixzqdzzvp.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_vercel/speed-insights/script.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/api/geoip",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/snippets/hana-82e9eb82a79dead4/js-imports.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://apis.spline.design/user/publickey",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0ghoh7crdkjnx.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/media/icon_checkboard_square_24x24_light.2zfy_h9369obj.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_libraries/hana-ui.wasm",
+      "status": 200,
+      "type": "application/wasm"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/35ockpxpd1e-1.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/3dvgl_h83n807.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/chunks/0cfjfvziv9ei1.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_models/bunny.json",
+      "status": 200,
+      "type": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_models/teapot.json",
+      "status": 200,
+      "type": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/bluenoise.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/fonts/spline-sans-latin.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://apis.spline.design/binaries?fileId=4d17acdc-e288-41f6-953d-584bf74d5b5d&bindId=02a35c0a-8f61-465d-893d-4cd223a6913c",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://apis.spline.design/binaries?fileId=4d17acdc-e288-41f6-953d-584bf74d5b5d&bindId=05aefc4f-23d9-4b75-a160-af264ddfbabe",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://apis.spline.design/binaries?fileId=4d17acdc-e288-41f6-953d-584bf74d5b5d&bindId=29d2c444-8076-494d-9b0d-7ded3c3eb278",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://apis.spline.design/binaries?fileId=4d17acdc-e288-41f6-953d-584bf74d5b5d&bindId=827a6219-ca1b-4d7e-a196-6e1ed85447b6",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://apis.spline.design/binaries?fileId=4d17acdc-e288-41f6-953d-584bf74d5b5d&bindId=36756620-69c3-4b85-bdcd-f1f5fdf2eeba",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://s3.amazonaws.com/bigbins-prod.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d/02a35c0a-8f61-465d-893d-4cd223a6913c",
+      "status": 200,
+      "type": "application/x-www-form-urlencoded"
+    },
+    {
+      "url": "https://s3.amazonaws.com/bigbins-prod.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d/29d2c444-8076-494d-9b0d-7ded3c3eb278",
+      "status": 200,
+      "type": "application/x-www-form-urlencoded"
+    },
+    {
+      "url": "https://s3.amazonaws.com/bigbins-prod.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d/827a6219-ca1b-4d7e-a196-6e1ed85447b6",
+      "status": 200,
+      "type": "application/x-www-form-urlencoded"
+    },
+    {
+      "url": "https://s3.amazonaws.com/bigbins-prod.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d/05aefc4f-23d9-4b75-a160-af264ddfbabe",
+      "status": 200,
+      "type": "application/x-www-form-urlencoded"
+    },
+    {
+      "url": "https://s3.amazonaws.com/bigbins-prod.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d/36756620-69c3-4b85-bdcd-f1f5fdf2eeba",
+      "status": 200,
+      "type": "application/x-www-form-urlencoded"
+    },
+    {
+      "url": "https://play.spline.design/play-frame.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://play.spline.design/_libraries/runtime.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_checkboard_default.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_dots_01.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_concrete_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_rock_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_grass_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_grass_02.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_roof_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_concrete_02.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_planet_earth_color.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_planet_earth_clouds.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_5_18.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_space.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_5_1.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_paper_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_wood_02.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_wood_01.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_2.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_31.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_4_3.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_wall_02.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_ring.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_2_7.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_5.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_dot_blur.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_roughness_2.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_roughness_1.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_2_4.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_4.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_planet_mars.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_3.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/photo_studio_loft_hall.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_roughness_3.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/christmas_photo_studio_02.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_snow.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_default.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_dust.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/neutral_studio.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/abstract_gradient_gold.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/_particle/pt_dot_sharp.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/sunset_fairway.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/clay_nature.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/qwantani_dusk_2_puresky.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/neon_light.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/studio_white.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/studio_small_03.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/loft_office.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_1_11.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/voxel_islands.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/neon_city.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/industrial.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/studio_simple.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_reflection_line.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/blue_photo_studio.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/synth_wave.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/studio_dark.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/gradient_clean.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/fantasy_environment.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/studio_led.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/texture_rock_02.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://app.spline.design/images/envs/forest.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_textures/matcap_roughness_4.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/media/line_light.155mq2bzberue.svg",
+      "status": 200,
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_vectors/point_default_out.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_vectors/control_selected.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_vectors/point_selected_out.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_icons/_ui/frame_resize.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_vectors/control_default.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_next/static/media/spline_logo_256.052vqbhzed9vm.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_icons/icon_favicon32x32.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "url": "https://apis.spline.design/file/signed/4d17acdc-e288-41f6-953d-584bf74d5b5d",
+      "status": 200,
+      "type": "application/json"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_fonts/Roboto-Regular.ttf",
+      "status": 200,
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://app.spline.design/_assets/_icons/icon_favicon16x16.png",
+      "status": 200,
+      "type": "image/png"
+    }
+  ]
+}

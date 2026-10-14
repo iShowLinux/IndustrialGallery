@@ -1,0 +1,106 @@
+{
+  "units": "centimetres",
+  "up_axis": "Z",
+  "source": "Original procedural geometry and Pillow artwork authored for this project",
+  "meshes": {
+    "SM_BronzeLoop": {
+      "vertices": 7168,
+      "triangles": 14336,
+      "bounds_min": [
+        -60.85401137845971,
+        -34.0,
+        0.0
+      ],
+      "bounds_max": [
+        55.532109129428605,
+        29.0,
+        195.0
+      ]
+    },
+    "SM_RearLoop": {
+      "vertices": 1152,
+      "triangles": 2304,
+      "bounds_min": [
+        -46.84906732623887,
+        -16.0,
+        0.0
+      ],
+      "bounds_max": [
+        49.110619707349684,
+        16.0,
+        132.0
+      ]
+    },
+    "SM_ArtPlane": {
+      "vertices": 4,
+      "triangles": 2,
+      "bounds_min": [
+        -50,
+        0,
+        -50
+      ],
+      "bounds_max": [
+        50,
+        0,
+        50
+      ]
+    },
+    "SM_CeilingSlats": {
+      "vertices": 1848,
+      "triangles": 924,
+      "bounds_min": [
+        -691.5,
+        -898.0,
+        406.0
+      ],
+      "bounds_max": [
+        679.5,
+        898.0,
+        410.0
+      ]
+    },
+    "SM_BenchSlats": {
+      "vertices": 216,
+      "triangles": 108,
+      "bounds_min": [
+        -22.0,
+        -72.5,
+        -2.5
+      ],
+      "bounds_max": [
+        22.0,
+        72.5,
+        2.5
+      ]
+    },
+    "SM_DuctBands": {
+      "vertices": 8704,
+      "triangles": 17408,
+      "bounds_min": [
+        -406.2,
+        -800.8,
+        377.3
+      ],
+      "bounds_max": [
+        446.2,
+        800.8,
+        409.7
+      ]
+    }
+  },
+  "textures": [
+    "Textures/T_ContourField.png",
+    "Textures/T_OrbitForms.png",
+    "Textures/T_OchreFacets.png",
+    "Textures/T_Label_01.png",
+    "Textures/T_Label_02.png",
+    "Textures/T_Label_03.png",
+    "Textures/T_Label_04.png",
+    "Textures/T_Label_05.png",
+    "Textures/T_Label_06.png",
+    "Textures/T_Label_07.png",
+    "Textures/T_WalnutGrain.png"
+  ],
+  "ceiling_slat_instances": 77,
+  "bench_slat_instances": 9
+}

@@ -1,0 +1,9581 @@
+{
+  "methods": [
+    "constructor",
+    "_initRenderer",
+    "_disposeRenderer",
+    "_createRenderer",
+    "_failWebGPURequired",
+    "load",
+    "start",
+    "setVariables",
+    "setVariable",
+    "getVariables",
+    "getVariable",
+    "_getVariableValue",
+    "_getVariableByName",
+    "_getPixelRatio",
+    "findObjectById",
+    "findObjectByName",
+    "getAllObjects",
+    "getSplineEvents",
+    "emitEvent",
+    "emitEventReverse",
+    "addEventListener",
+    "removeEventListener",
+    "setZoom",
+    "eventManager",
+    "controls",
+    "setSize",
+    "setBackgroundColor",
+    "dispose",
+    "isStopped",
+    "stop",
+    "play",
+    "setGlobalEvents",
+    "data",
+    "_createProxyObject",
+    "setUIWasmUrl",
+    "pauseGameControls",
+    "resumeGameControls",
+    "swapGeometry",
+    "_applyDocumentTransaction",
+    "_findEntity",
+    "_resolveParentId",
+    "createCustomMaterial",
+    "setMaterial",
+    "createObject",
+    "cloneObject",
+    "removeObject"
+  ],
+  "objects": [
+    {
+      "name": "Truss 2 Web 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 645,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 596,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 547,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 498,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 449,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 400,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 351,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 302,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 253,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 204,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 155,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 106,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 57,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 8,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -41,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -139,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -188,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -237,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -286,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -335,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -384,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -433,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -482,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -531,
+        "y": 257,
+        "z": 120.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Web 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -580,
+        "y": 257,
+        "z": 119.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Bottom",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 246,
+        "z": 121
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 2 Top",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 268,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 645,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 596,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 547,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 498,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 449,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 400,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 351,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 302,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 253,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 204,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 155,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 106,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 57,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 8,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -41,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -139,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -188,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -237,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -286,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -335,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -384,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -433,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -482,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -531,
+        "y": 257,
+        "z": -249.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Web 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -580,
+        "y": 257,
+        "z": -250.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Bottom",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 246,
+        "z": -249
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 1 Top",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 268,
+        "z": -250
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 645,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 596,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 547,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 498,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 449,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 400,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 351,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 302,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 253,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 204,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 155,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 106,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 57,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 8,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -41,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -139,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -188,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -237,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -286,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -335,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -384,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -433,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -482,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -531,
+        "y": 257,
+        "z": -639.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Web 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -580,
+        "y": 257,
+        "z": -640.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.6632251157578453,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Bottom",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 246,
+        "z": -639
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Truss 0 Top",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 268,
+        "z": -640
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Front Fill",
+      "id": null,
+      "type": "PointLight",
+      "position": {
+        "x": -250,
+        "y": 150,
+        "z": 420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Glow",
+      "id": null,
+      "type": "PointLight",
+      "position": {
+        "x": 60,
+        "y": 150,
+        "z": -640
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Right Wall Wash",
+      "id": null,
+      "type": "SpotLight",
+      "position": {
+        "x": 560,
+        "y": 262,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.6108652381980153,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Left Wall Wash",
+      "id": null,
+      "type": "SpotLight",
+      "position": {
+        "x": -420,
+        "y": 262,
+        "z": 230
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.5235987755982988,
+        "_y": -1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Hero Painting Spot",
+      "id": null,
+      "type": "SpotLight",
+      "position": {
+        "x": -250,
+        "y": 262,
+        "z": -180
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -1.0821041362364843,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Partition Wash",
+      "id": null,
+      "type": "SpotLight",
+      "position": {
+        "x": 230,
+        "y": 262,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -1.2217304763960306,
+        "_y": 0.5235987755982988,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Sculpture Spot",
+      "id": null,
+      "type": "SpotLight",
+      "position": {
+        "x": 330,
+        "y": 262,
+        "z": 100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -1.0821041362364843,
+        "_y": -0.2792526803190927,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Halo Glow R",
+      "id": null,
+      "type": "PointLight",
+      "position": {
+        "x": 240,
+        "y": 205,
+        "z": -170
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Halo Glow L",
+      "id": null,
+      "type": "PointLight",
+      "position": {
+        "x": -120,
+        "y": 205,
+        "z": -170
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Halo Glow Center",
+      "id": null,
+      "type": "PointLight",
+      "position": {
+        "x": 60,
+        "y": 200,
+        "z": -170
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 550,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 524,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 498,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 472,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 446,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Door Panel 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 420,
+        "y": 60,
+        "z": -798
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Round Sign Ring",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 60,
+        "y": 100,
+        "z": 153
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Round Sign",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 60,
+        "y": 100,
+        "z": 152
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.5707963267948966,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Pedestal",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -20,
+        "y": 18,
+        "z": -700
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Sphere",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 100,
+        "y": 128,
+        "z": -690
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Sculpture Ring B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 108,
+        "y": 85,
+        "z": -690
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.3490658503988659,
+        "_y": 1.3962634015954636,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Sculpture Ring A",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 100,
+        "y": 60,
+        "z": -690
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.5707963267948966,
+        "_y": 0.3490658503988659,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Back Base",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 100,
+        "y": 7,
+        "z": -690
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Floor Guide Short",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Floor Guide Line",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Leg",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -144,
+        "y": 9,
+        "z": 228
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Leg",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -196,
+        "y": 9,
+        "z": 228
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Leg",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -144,
+        "y": 9,
+        "z": 152
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Leg",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -196,
+        "y": 9,
+        "z": 152
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Cushion",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -173,
+        "y": 22.5,
+        "z": 202
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -140,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -147.5,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -155,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -162.5,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -170,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -177.5,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -185,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -192.5,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Bench Slat 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -200,
+        "y": 19,
+        "z": 190
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 699,
+        "y": 53,
+        "z": 60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 695.5,
+        "y": 144,
+        "z": 60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 692,
+        "y": 144,
+        "z": 60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 696.7,
+        "y": 100,
+        "z": 60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": -1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 698.4,
+        "y": 100,
+        "z": 60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 699,
+        "y": 60,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 695.5,
+        "y": 137,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 692,
+        "y": 137,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 696.7,
+        "y": 100,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": -1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 698.4,
+        "y": 100,
+        "z": -300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -150,
+        "y": 84,
+        "z": -799.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -150,
+        "y": 153,
+        "z": -796
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -150,
+        "y": 153,
+        "z": -792.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -150,
+        "y": 120,
+        "z": -797.2
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -150,
+        "y": 120,
+        "z": -798.9
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 42,
+        "z": -320
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 145,
+        "z": -316.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 145,
+        "z": -313
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 95,
+        "z": -317.7
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 95,
+        "z": -319.4
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -599,
+        "y": 42,
+        "z": -20
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -595.5,
+        "y": 131,
+        "z": -20
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -592,
+        "y": 131,
+        "z": -20
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -596.7,
+        "y": 88,
+        "z": -20
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598.4,
+        "y": 88,
+        "z": -20
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -599,
+        "y": 42,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -595.5,
+        "y": 135,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -592,
+        "y": 135,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -596.7,
+        "y": 90,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598.4,
+        "y": 90,
+        "z": 120
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -599,
+        "y": 38,
+        "z": 215
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -595.5,
+        "y": 135,
+        "z": 215
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -592,
+        "y": 135,
+        "z": 215
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -596.7,
+        "y": 88,
+        "z": 215
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598.4,
+        "y": 88,
+        "z": 215
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -599,
+        "y": 43,
+        "z": 318
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -595.5,
+        "y": 138,
+        "z": 318
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -592,
+        "y": 138,
+        "z": 318
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -596.7,
+        "y": 92,
+        "z": 318
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598.4,
+        "y": 92,
+        "z": 318
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Plaque 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -599,
+        "y": 41,
+        "z": 390
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light Arm 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -595.5,
+        "y": 132,
+        "z": 390
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Art Light 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -592,
+        "y": 132,
+        "z": 390
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Painting 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -596.7,
+        "y": 88,
+        "z": 390
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 1.5707963267948966,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Frame 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598.4,
+        "y": 88,
+        "z": 390
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Wire 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 240,
+        "z": -50
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Wire 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 140,
+        "y": 240,
+        "z": -280
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Wire 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -20,
+        "y": 240,
+        "z": -50
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Wire 0",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -180,
+        "y": 240,
+        "z": -280
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Halo B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "LED Halo A",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 29",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 296.89417145876973,
+        "y": 236.40889008453118,
+        "z": 310
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 29",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 248,
+        "z": 310
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 29",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 258,
+        "z": 310
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 28",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 237.60769515458674,
+        "z": 304
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.5235987755982988,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 28",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 248,
+        "z": 310
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.5235987755982988,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 28",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 258,
+        "z": 310
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 27",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 236,
+        "z": 80
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 27",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 248,
+        "z": 80
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 27",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 258,
+        "z": 80
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 26",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 236.1823069638535,
+        "z": 77.91622186799684
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.17453292519943295,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 26",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 248,
+        "z": 80
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.17453292519943295,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 26",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 258,
+        "z": 80
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 303.10582854123027,
+        "y": 236.40889008453118,
+        "z": -150
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 248,
+        "z": -150
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 258,
+        "z": -150
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 236.1823069638535,
+        "z": -147.91622186799682
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.17453292519943295,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 248,
+        "z": -150
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.17453292519943295,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 258,
+        "z": -150
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 306,
+        "y": 237.60769515458674,
+        "z": -380
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.5235987755982988,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 248,
+        "z": -380
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.5235987755982988,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 258,
+        "z": -380
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 237.60769515458674,
+        "z": -374
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.5235987755982988,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 248,
+        "z": -380
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.5235987755982988,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 258,
+        "z": -380
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 410,
+        "y": 241.11708276378744,
+        "z": 269.8298245314679
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 410,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 410,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 294.8298245314679,
+        "y": 241.11708276378744,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 285,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 285,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 160,
+        "y": 236.7236885505691,
+        "z": 264.10424171990803
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 160,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 160,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 31.89417145876975,
+        "y": 236.40889008453118,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 35,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 35,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 236.40889008453118,
+        "z": 256.89417145876973
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -210.89575828009197,
+        "y": 236.7236885505691,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -215,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -215,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -340,
+        "y": 241.11708276378744,
+        "z": 269.8298245314679
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -340,
+        "y": 248,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -340,
+        "y": 258,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 390,
+        "y": 241.11708276378744,
+        "z": -50.1701754685321
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 390,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 390,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 274.8298245314679,
+        "y": 241.11708276378744,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 265,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 265,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 140,
+        "y": 236.7236885505691,
+        "z": -55.895758280091975
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 140,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 140,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 11.894171458769751,
+        "y": 236.40889008453118,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 15,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 15,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -110,
+        "y": 236.40889008453118,
+        "z": -63.10582854123025
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -110,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -110,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -230.89575828009197,
+        "y": 236.7236885505691,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -235,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -235,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -360,
+        "y": 241.11708276378744,
+        "z": -50.1701754685321
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -360,
+        "y": 248,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -360,
+        "y": 258,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 370,
+        "y": 241.11708276378744,
+        "z": -410.1701754685321
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 370,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 370,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 254.8298245314679,
+        "y": 241.11708276378744,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 245,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.9599310885968813,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 245,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 120,
+        "y": 236.7236885505691,
+        "z": -415.89575828009197
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 120,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.3490658503988659,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 120,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -8.105828541230249,
+        "y": 236.40889008453118,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -5,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": -0.2617993877991494,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -5,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -130,
+        "y": 236.40889008453118,
+        "z": -423.10582854123027
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -130,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -130,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -250.89575828009197,
+        "y": 236.7236885505691,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -255,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0.3490658503988659,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -255,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Lens 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -380,
+        "y": 241.11708276378744,
+        "z": -410.1701754685321
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Body 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -380,
+        "y": 248,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.9599310885968813,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Spot Stem 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -380,
+        "y": 258,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Rail Z2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 300,
+        "y": 265.5,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Rail Z1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -300,
+        "y": 265.5,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Rail X3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 60,
+        "y": 264,
+        "z": 260
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Rail X2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 60,
+        "y": 264,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Rail X1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 60,
+        "y": 264,
+        "z": -420
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 40",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 678,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 39",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 646,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 38",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 614,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 37",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 582,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 36",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 550,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 35",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 518,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 34",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 486,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 33",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 454,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 32",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 422,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 31",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 390,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 30",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 358,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 29",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 326,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 28",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 294,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 27",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 262,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 26",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 230,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 198,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 166,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 134,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 102,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 70,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 38,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 6,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -26,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -58,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -90,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -122,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -154,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -186,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -218,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -250,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -282,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -314,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -346,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -378,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -410,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -442,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -474,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -506,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -538,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Rib 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -570,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Cross 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 560,
+        "y": 258,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.5707963267948966,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Mid",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 262,
+        "z": 160
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Back",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 255,
+        "z": -740
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Cross 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -345,
+        "y": 260,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.5707963267948966,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Cross 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -380,
+        "y": 255,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.5707963267948966,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Main B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 258,
+        "z": -470
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Duct Main",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 252,
+        "z": -520
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 1.5707963267948966,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 53",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 689.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 52",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 664.6000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 51",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 640,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 50",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 615.4000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 49",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 590.8000000000002,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 48",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 566.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 47",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 541.6000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 46",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 517,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 45",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 492.4000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 44",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 467.79999999999995,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 43",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 443.20000000000005,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 42",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 418.6,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 41",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 394,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 40",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 369.4000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 39",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 344.80000000000007,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 38",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 320.20000000000005,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 37",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 295.6,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 36",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 271,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 35",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 246.4000000000001,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 34",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 221.80000000000007,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 33",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 197.20000000000005,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 32",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 172.60000000000002,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 31",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 148,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 30",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 123.40000000000009,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 29",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 98.80000000000007,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 28",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 74.20000000000005,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 27",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 49.60000000000002,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 26",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 25,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 25",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0.40000000000009095,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 24",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -24.199999999999932,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 23",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -48.799999999999955,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 22",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -73.39999999999998,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 21",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -98,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 20",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -122.59999999999997,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 19",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -147.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 18",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -171.79999999999995,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 17",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -196.39999999999998,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 16",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -221,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 15",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -245.59999999999997,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 14",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -270.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 13",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -294.79999999999995,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 12",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -319.4,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 11",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -344,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 10",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -368.6,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 9",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -393.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 8",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -417.79999999999995,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 7",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -442.4,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 6",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -467,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 5",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -491.6,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 4",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -516.2,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 3",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -540.8,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -565.4,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling Slat 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -590,
+        "y": 276,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Pedestal Object",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 250,
+        "y": 56,
+        "z": -290
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Small Pedestal",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 250,
+        "y": 22,
+        "z": -290
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Pedestal Plaque",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 521,
+        "y": 36,
+        "z": -0.5
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": -0.13962634015954636,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "White Pedestal",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 520,
+        "y": 31,
+        "z": -30
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": -0.13962634015954636,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Marble Pedestal",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 398,
+        "y": 16,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": -0.17453292519943295,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Sculpture Band Bronze 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 395,
+        "y": 75,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.3962634015954636,
+        "_y": -0.9599310885968813,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Sculpture Band Dark",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 398,
+        "y": 106,
+        "z": -62
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0.2617993877991494,
+        "_y": -0.4363323129985824,
+        "_z": 1.2217304763960306,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Sculpture Band Bronze",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 392,
+        "y": 108,
+        "z": -55
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -0.5235987755982988,
+        "_y": 1.2217304763960306,
+        "_z": 0.20943951023931956,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Sculpture Band Gold",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 395,
+        "y": 108,
+        "z": -60
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 1.2566370614359172,
+        "_y": 0.3490658503988659,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Partition D",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 430,
+        "y": 92.5,
+        "z": -670
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 0.99,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Partition C",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 560,
+        "y": 92.5,
+        "z": -600
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Partition B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -330,
+        "y": 92.5,
+        "z": -330
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Curved Partition",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 2 Void",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -640,
+        "y": 65,
+        "z": -340
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 1 Void",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -640,
+        "y": 65,
+        "z": 490
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 2 Head",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 132,
+        "z": -340
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 2 Jamb B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 65,
+        "z": -298
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 2 Jamb A",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 65,
+        "z": -382
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 1 Head",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 132,
+        "z": 490
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 1 Jamb B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 65,
+        "z": 532
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Door 1 Jamb A",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -598,
+        "y": 65,
+        "z": 448
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Ceiling",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 283,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Right",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 707,
+        "y": 140,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Back",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 140,
+        "z": -807
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Left Lintel 2",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -607,
+        "y": 205,
+        "z": -340
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Left Lintel 1",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -607,
+        "y": 205,
+        "z": 490
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Left C",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -607,
+        "y": 140,
+        "z": -590
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Left B",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -607,
+        "y": 140,
+        "z": 75
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Wall Left A",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": -607,
+        "y": 140,
+        "z": 565
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Floor",
+      "id": null,
+      "type": "Mesh",
+      "position": {
+        "x": 50,
+        "y": 0,
+        "z": -100
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": -1.5707963267948966,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    },
+    {
+      "name": "Directional Light",
+      "id": null,
+      "type": "DirectionalLight",
+      "position": {
+        "x": 0,
+        "y": 600,
+        "z": 300
+      },
+      "rotation": {
+        "isEuler": true,
+        "_x": 0,
+        "_y": 0,
+        "_z": 0,
+        "_order": "XYZ",
+        "_onChangeCallback": null
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true
+    }
+  ],
+  "variables": {}
+}

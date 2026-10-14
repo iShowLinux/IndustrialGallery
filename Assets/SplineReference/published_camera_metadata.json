@@ -1,0 +1,109 @@
+[
+  {
+    "path": "data.scene.objects[0].data.publish.playCamera",
+    "value": "personal camera"
+  },
+  {
+    "path": "data.scene.objects[0].data.camera",
+    "value": {
+      "states": [],
+      "events": [],
+      "visible": true,
+      "raycastLock": false,
+      "physics": {
+        "enabled": "visibility",
+        "fusedBody": true,
+        "rigidBody": "positioned",
+        "density": 1,
+        "pointMass": 0,
+        "gravityScale": 1,
+        "friction": 0.5,
+        "damping": 0,
+        "restitution": 0.2,
+        "colliderType": "convex",
+        "enabledRotation": [
+          true,
+          true,
+          true
+        ],
+        "enabledTranslation": [
+          true,
+          true,
+          true
+        ]
+      },
+      "pathSnapping": {
+        "pathId": null,
+        "slide": 0,
+        "offset": 0,
+        "orientation": "tangential"
+      },
+      "position": [
+        -332.0649666224441,
+        209.17310096006543,
+        651.1436965987891
+      ],
+      "rotation": [
+        -9.854960903761514,
+        -35.595912840025434,
+        -5.773848417359876
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "pivot": [
+        0,
+        0,
+        0
+      ],
+      "pivotRotation": [
+        0,
+        0,
+        0
+      ],
+      "hiddenMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "cloner": null,
+      "far": 100000,
+      "type": "PerspectiveCamera",
+      "perspective": {
+        "near": 70,
+        "fov": 45,
+        "zoom": 1
+      },
+      "orthographic": {
+        "near": -100000,
+        "zoom": 1.6775761839492693
+      },
+      "up": [
+        0,
+        1,
+        0
+      ],
+      "isUpVectorFlipped": false,
+      "targetOffset": 1000
+    }
+  },
+  {
+    "path": "data.scene.styles.modifiers.camera",
+    "value": 0
+  }
+]

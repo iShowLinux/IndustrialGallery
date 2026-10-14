@@ -1,0 +1,45 @@
+{
+ "radius": 200.0,
+ "centre": [
+  260.0,
+  -20.0
+ ],
+ "height": 185.0,
+ "thickness": 18.0,
+ "sweep_deg": 90.0,
+ "leg1": [
+  [
+   60.0,
+   150.0
+  ],
+  [
+   60.0,
+   -20.0
+  ]
+ ],
+ "leg2": [
+  [
+   260.0,
+   -220.0
+  ],
+  [
+   560.0,
+   -220.0
+  ]
+ ],
+ "spline_bounds": {
+  "x": [
+   51.0,
+   560.0
+  ],
+  "y": [
+   0.0,
+   185.0
+  ],
+  "z": [
+   -229.0,
+   150.0
+  ]
+ },
+ "source": "published_scene_data.json NonParametricGeometry"
+}

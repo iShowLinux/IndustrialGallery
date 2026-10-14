@@ -1,0 +1,25 @@
+[
+  {
+    "key": "signedURL",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "previewURL",
+    "url": "https://filespreview.spline.design/4d17acdc-e288-41f6-953d-584bf74d5b5d.jpg",
+    "file": "Reference_Server_Preview.jpg",
+    "status": 200,
+    "type": "image/jpeg",
+    "size": 76622,
+    "sha256": "70e15c8b7c6a8cda8752d31d9d6fc3455586c067aa436278c72fe9ae423d200b"
+  },
+  {
+    "key": "exportURL",
+    "url": "https://my.spline.design/modernindustrialartgallery-aabLwPd48O0FUQHYCbiwQ5D7/",
+    "file": "Reference_Export.http-body.br",
+    "status": 200,
+    "type": "text/html",
+    "size": 234056,
+    "sha256": "a27ee395f747fcc053e6bb298dce5a03377d97c6cc7083aa57be8be6dff24ef8",
+    "content_encoding": "br"
+  }
+]
